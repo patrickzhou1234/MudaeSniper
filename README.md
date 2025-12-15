@@ -34,9 +34,9 @@ This project is based on: https://github.com/GuilleDiazFentanes/AutoClaim-AutoRo
 ### Usage
 Run the main bot script:
 ```bash
-python Bot.py
+python claimOnlyv2.py
 ```
 
 The bot will start and schedule rolls according to the `repeatMinute` setting in `Vars.py`.
 
-**Note:** There are other scripts available like `Bot_ClaimOnly.py` and `claimOnlyv2.py` which may offer different functionality (e.g., claiming only without rolling).
+**Note:** dont use the other stuff cuz i didnt test
